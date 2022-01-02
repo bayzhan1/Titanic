@@ -7,4 +7,4 @@ The competition is simple: use machine learning to create a model that predicts 
 https://www.kaggle.com/c/titanic/overview
 
 
-I analyzed data with pandas and seaborn libraries, and later compare Logistic Regression, Random Forest Classifier, and AdaBoost Classifier models. 
+I analyzed the data to and found interesting features using pandas and seaborn libraries, and later compared Logistic Regression, Random Forest Classifier, and AdaBoost Classifier models. Accuracy: 83%
